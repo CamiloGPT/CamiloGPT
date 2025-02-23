@@ -43,16 +43,16 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilogpt&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilogpt&theme=dark&v=2" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=camilogpt&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=camilogpt&theme=onedark&v=2" />
 </p>
 
 <p align="center">
   <a href="https://github.com/camiloGPT">
-    <img src="https://github-readme-stats.vercel.app/api?username=camilogpt&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=camilogpt&show_icons=true&theme=radical&v=2" alt="GitHub Stats">
   </a>
 </p>
 
