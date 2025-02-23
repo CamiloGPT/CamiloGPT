@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td>Rust</td>
@@ -47,12 +47,12 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=camilogpt&theme=onedark" />
 </p>
 
 <p align="center">
   <a href="https://github.com/camiloGPT">
-    <img src="https://github-readme-stats.vercel.app/api?username=camiloGPT&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=camilogpt&show_icons=true&theme=radical" alt="GitHub Stats">
   </a>
 </p>
 
